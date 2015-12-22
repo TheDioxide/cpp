@@ -1,11 +1,11 @@
 before compiling:
 
 
-Project -> Build options... -> Compiler settings -> Compiler flags \br
-	enable [-std=c++11]
-
-Project -> Build options... -> Linker settings
-	Link libraries:
-		gdi32
-	Other linker options:
-		-Iwinmm
+Project -> Build options... -> Compiler settings -> Compiler flags <br />
+	enable [-std=c++11] <br />
+<br />
+Project -> Build options... -> Linker settings <br />
+	Link libraries: <br />
+		gdi32 <br />
+	Other linker options: <br />
+		-Iwinmm <br />
