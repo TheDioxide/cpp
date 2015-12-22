@@ -1,7 +1,7 @@
 before compiling:
 
 
-Project -> Build options... -> Compiler settings -> Compiler flags
+Project -> Build options... -> Compiler settings -> Compiler flags \n
 	enable [-std=c++11]
 
 Project -> Build options... -> Linker settings
